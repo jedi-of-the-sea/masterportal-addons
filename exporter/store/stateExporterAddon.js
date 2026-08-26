@@ -14,7 +14,7 @@ export const DEFAULT_VALUES = {
             EXPORTFORMATS.shp,
             EXPORTFORMATS.gpkg
         ],
-        downloadProjection: "EPSG:4326",
+        downloadProjection: "mapProjection",
         selectedExportFormat: undefined
     };
 
